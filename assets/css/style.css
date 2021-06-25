@@ -38,7 +38,7 @@ header div {
 
 /* edited for hover effect tues */
 .seo {color: cadetblue;}
-.seo:hover {color: darkblue;}
+.seo:hover {color: rgb(124, 161, 243);}
 
 /* edited so text alings aesthetically */
 header div ul {
@@ -60,7 +60,7 @@ a {
 }
 
 a:hover { 
-    color:darkslategrey
+    color:blanchedalmond
 
 }
 
@@ -87,7 +87,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -121,7 +121,6 @@ p {
 
 .benefit-lead h3 {
     margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit-brand h3 {
