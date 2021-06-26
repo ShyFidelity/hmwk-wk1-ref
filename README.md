@@ -10,8 +10,11 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Here is a preview of my work:
 ![screenshot of my image](./assets/images/screenshot.png)
 
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Here is a link to my work:
+[See it here](https://jilliankayworks.github.io/hmwk-wk1-ref/)
+
+
+## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
